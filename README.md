@@ -1,6 +1,6 @@
 # embedid-starter
 
-Starter files for EmbedID web integration tutorial. 
+Starter files for EmbedID web integration. 
 
 ## Steps:
 
