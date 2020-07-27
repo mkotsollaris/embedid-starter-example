@@ -1,6 +1,6 @@
 {
   "name": "embedid-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Starter files for EmbedID web integration tutorial.",
   "main": "backend.js",
   "scripts": {
@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "trulioo-embedid-middleware": "0.0.2-beta"
+    "trulioo-embedid-middleware": "^0.0.2-beta"
   }
 }
